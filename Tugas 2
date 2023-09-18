@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acne Solution</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="wrapper">
+            <div class="logo"><a href="">Acne Solution</a></div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#acne">Acne</a></li>
+                    <li><a href="#causes">Causes</a></li>
+                    <li><a href="#types">Types</a></li>
+                    <li><a href="#solution">Solution</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="" class="tbl-biru">Sign Up</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="wrapper">
+        <section id="home">
+            <img src="https://img.freepik.com/free-vector/acne-treatment-concept-illustration_114360-9717.jpg?w=740&t=st=1694970428~exp=1694971028~hmac=69b8135a06ba9dad2768a0eb3011e2dfeeb0e5ac902628c92f0eb6ec7ab33676" width="500">
+            <div class="kolom">
+                <p class="deskripsi"></p>  
+                <p class="deskripsi"></p>        
+                <p class="deskripsi">Acne</p>
+                <h2>Apa Itu Jerawat?</h2>
+                <p><a href="" class="tbl-pink">Learn More</a></p>
+            </div>
+        </section>
+
+        <section id="acne">
+            <div class="kolom">
+                <p class="deskripsi">You Have To Know This</p>
+                <h2>Apa Itu Jerawat?</h2>
+                <p>Kondisi pada kulit yang terjadi ketika folikel rambut tersumbat.</p>
+                <p>Hal tersebut menyebabkan peradangan biasanya terjadi dengan munculnya benjolan kecil diatas kulit.</p>
+                <p>Gangguan kulit ini dapat terjadi di bagian tubuh seperti, wajah, leher, bagian atas dada dan punggung.</p>
+                <p><a href="" class="tbl-biru">Learn More</a></p>
+            </div>
+            <img src="https://img.freepik.com/free-vector/acne-treatment-concept-illustration_114360-9105.jpg?w=996&t=st=1694973326~exp=1694973926~hmac=badfd9fcdc638a37b63b65a742ef22a72f505f7edebe9851cebe1e562f9e49aa" width="550" height="450">
+
+        </section>
+
+        <section id="causes">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi"></p>
+                    <h2>Penyebab Jerawat</h2>
+                    <p>Faktor genetik atau keturunan</p>
+                    <p>Produksi sebum berlebih</p>
+                    <p>Hormon</p>
+                    <p>Penggunaan kosmetik yang tidak cocok</p>
+                    <p>Sumbatan pada folikel rambut</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="types">
+            <div class="tengah">
+                <div class="kolom">
+                    <h2>Types Of Acne</h2>
+                    <p>Blackhead adalah komedo terbuka dan Whitehead adalah komedo tertutup</p>
+                    <p>Papule adalah benjolan merah dan berukuran kecil</p>
+                    <p>Pustule adalah benjolan merah dengan pus di tengahnya</p>
+                    <p>Cystic adalah berupa benjolan besar dan dapat berisi cairan</p>
+                    <p>Nodule adalah benjolan besar dan keras dibawah kulit</p>
+                </div>
+            </div>
+            <p class="deskripsi"></p>
+                <img src="https://img.freepik.com/free-vector/different-types-acne-flat-set_74855-15394.jpg?w=996&t=st=1694976019~exp=1694976619~hmac=f80688c1677ad81c4f195d63924ad4bc2de85f97385dd31a9b0c1fbdf85bee70" width="700" height="450">
+
+        </section>
+                
+        <section id="solution">
+            <img src="https://img.freepik.com/free-vector/new-idea-implementation-creative-thinking-innovative-solutions-startup-project-colleagues-partners-discussing-marketing-strategy_335657-2360.jpg?w=740&t=st=1694977451~exp=1694978051~hmac=1f23623ecf929b75e1bb4a4a6452cf15af18a113a30e6ccf1aceb800f512f9b4" width="300">
+            <div id="kolom">
+                <h2>The Solution</h2>
+                <p>1. Menjaga kebersihan tubuh dan wajah.</p>
+                <p>2. Menghindari memegang dan memencet jerawat.</p>
+                <p>3. Hindari penggunaan riasan wajah</p>
+                <p>4. Menjaga pola makan sehat.</p>
+                <p>5. Lakukan pemeriksaan ke dokter kulit.</p>
+            </div>
+        </section>
+    </div>
+
+    <div id="contact">
+        <div class="footer">
+            <div class="footer-section">
+                <h3>Acne Solution</h3>
+                <p>Acne Solution Store</p>
+                <p>Acne Solution Clinic</p>
+                <p>Acne Solution Dermatology</p>
+            </div>
+            <div class="footer-section">
+                <h3>Contact</h3>
+                <p><b>WhatsApp:</b>+62 8111 2222 333</p>
+                <p><b>Alamat:</b>Depok, Jawa Barat, Indonesia</p>
+            </div>
+            <div class="footer-section">
+                <h3>Social Media</h3>
+                <p><b>Instagram: </b>@AcneSolution</p>
+                <p><b>Tiktok: </b>Acne_Solution</p>
+                <p><b>Website: </b>AcneSolution.com</p>
+             </div>
+             <div class="footer-section">
+                <h3>About</h3>
+                <p>Klinik Kecantikan yang berdiri sejak 2003 yang menawarkan produk dan program perawatan kulit yang dihasilkan dari formula dermatologist dan melewati uji klinis Research & Innovation dan terbukti efekti serta aman digunakan</p>
+             </div>
+        </div>
+    </div>
+
+             <div id="copyright">
+                <div class="wrapper">
+                &copy; 2023. <b>Acne Solution</b> .Devika Muthia.
+             </div>
+        </div>
+</body>
+</html>
